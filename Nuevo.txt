@@ -1,11 +1,7 @@
-Este es un archivo de prueva, no creado en VSCODE pero espero sirva de ejemplo
+ESte es un archivo de prueva, np creado en VSCODE pero espero sirva de ejemplo
 
-Creado en la computadora del trabajo
+creado en la computadora del trabajo
 
-Se pretende aprender
+se pretende  aprender.
 
-Y mejorara habilidades
-
-Haremos un blog:
-
-hablaremos de su vida y obra maestra.
+Mañana nos enfocaremos en su vida laboral.
