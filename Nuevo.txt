@@ -1,7 +1,9 @@
-ESte es un archivo de prueva, np creado en VSCODE pero espero sirva de ejemplo
+﻿ESte es un archivo de prueva, np creado en VSCODE pero espero sirva de ejemplo
 
 creado en la computadora del trabajo
 
 se pretende  aprender.
 
 Mañana nos enfocaremos en su vida laboral.
+
+Este comentario creado en mi computado personal.
