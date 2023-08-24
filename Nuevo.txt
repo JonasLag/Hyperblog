@@ -1,4 +1,4 @@
-﻿ESte es un archivo de prueva, np creado en VSCODE pero espero sirva de ejemplo
+﻿Este es un archivo de prueva, no fue creado en VSCODE pero espero sirva de ejemplo
 
 creado en la computadora del trabajo
 
@@ -8,3 +8,5 @@ Mañana nos enfocaremos en su vida laboral.
 
 Este comentario creado en mi computado personal.
 este nuevo con el usuario de pruebas.
+
+Despues de un Fork este archivo tambien fue modificado.
