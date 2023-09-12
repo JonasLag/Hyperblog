@@ -13,4 +13,10 @@ Despues de un Fork este archivo tambien fue modificado.
 
 Master 1
 
+<<<<<<< HEAD
 Master 2
+=======
+experimento 1
+experimento 2
+Master 1
+>>>>>>> 90925a4 (experimento2)
